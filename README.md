@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img src="logo.png" width="30"> J.A.R.V.I.S. - Just A Rather Very Intelligent System
 
 <div align="center">
@@ -118,3 +119,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   <p><b>Powered by Python and inspired by science fiction</b></p>
   <p>© 2025 JARVIS Project</p>
 </div> 
+=======
+# J.A.R.V.I.S
+
