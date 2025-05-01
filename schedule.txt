@@ -1,0 +1,2 @@
+06:00AM = Sir tis is Your wake up time
+06:00PM = Sir tis is Your sleep time

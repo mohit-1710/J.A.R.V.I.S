@@ -1,0 +1,9 @@
+psutil
+requests
+playsound==1.2.2
+typing
+pyautogui
+pywhatkit
+win10toast
+winotify
+NethyTech_STT #Mohit_STT is currently not working
