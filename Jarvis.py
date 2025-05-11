@@ -43,4 +43,4 @@ def main():
         Alert(ran_offline_dlg)
 
 
-# check_alarm()
+main()
